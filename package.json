@@ -18,5 +18,16 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreycmdc/credican-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreycmdc/credican-service/issues"
+  },
+  "homepage": "https://github.com/Andreycmdc/credican-service#readme"
 }
